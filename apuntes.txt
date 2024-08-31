@@ -1,0 +1,4 @@
+npm init -y
+
+git init
+git add .
